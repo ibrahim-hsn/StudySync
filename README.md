@@ -3,6 +3,7 @@
 
 
 FEATURES:
+
 •	Time table with schedule
 
 •	Quiz reminder
@@ -16,23 +17,19 @@ FEATURES:
 •	Task and assignment tracker
 
  
-# Timetable with Schedule: 
-This feature provides the user with a dedicated section for class timetables.
-
+# Timetable with Schedule:
+We will provide an interface to the user where they can input their class schedule. The user will be able to view and manage their timetable efficiently, ensuring they stay organized with their daily academic routine.
 # Quiz Reminder:
- This feature offers a separate section for quizzes. It allows the user to input the topics covered so far and sends notifications every two days to revise a topic. It also alerts the user about any upcoming quizzes.
- 
+The user will be able to input topics covered so far, and the system will send notifications every two days to revise a topic. Additionally, it will alert the user about any upcoming quizzes, helping them stay prepared.
 # Marks Tracker:
-This feature enables the user to enter their marks and monitor their performance in each subject. It highlights the areas of both the best and worst performance in each subject.
+The user will be able to enter their marks for each subject on a separate interface, and the system will analyse and highlight their best and weakest areas, enabling them to focus on necessary improvements.
+# GPA Planner:
+The user will be able to input their current CGPA, and the system will calculate and suggest the required marks/GPA to achieve a good overall standing (e.g., above 3.2).
+# Exam Alerts:
+We will provide an interface to the user for exam management. The user will be notified about upcoming exams, and the system will analyze their weak subjects based on past quiz and assignment records. 
+# Assignment Tracker:
+We will provide an interface to the user for managing assignments. The user will be able to break down assignments into smaller, manageable parts based on given deadlines, ensuring timely completion.
 
-# GPA Planner: 
-With this feature, the user can input their current cGPA, and the system will inform them of the GPA they need to maintain to achieve a good overall GPA (e.g., above 3.2).
+# Assignment Priority:
+We will provide an interface to the user to prioritize assignments effectively. The user will be able to rank tasks based on their importance, which will be calculated considering the credit hours of each subject, ensuring optimal time management.
 
-# Exam Alerts: 
-This feature notifies the user about upcoming exams and identifies weak subjects based on previous quiz and assignment records. It also creates a study schedule according to the syllabus, considering the available time.
-
-# Assignment Tracker: 
-This feature allows the user to break down assignments into smaller parts based on the given deadlines.
-
-# Assignment Priority: 
-This feature helps the user prioritize tasks based on their importance, calculated from the credit hours of each subject.
