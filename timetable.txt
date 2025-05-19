@@ -1,0 +1,5 @@
+395db37a-4c2a-471c-b517-c08689e82d4d	english	Monday	1		0
+9d26c280-cd20-430c-aade-030282fb9247	oop	Monday	3		0
+ad934914-86b4-4136-baf0-fc370320690e	physics	Tuesday	1		0
+fc7b0586-cbb6-4a0a-99c9-2e6090de4a25	oop lab	Tuesday	4		0
+9746d520-e99c-4cba-98f3-d3662085569a	Physics Lab	Tuesday	2		0

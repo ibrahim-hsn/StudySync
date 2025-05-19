@@ -1,0 +1,4 @@
+defaultLectureDuration=1.0
+uniStartTime=08:30
+uniEndTime=17:00
+lectureNames=english,oop,dld,physics,Physics Lab,oop lab
